@@ -1,1 +1,2 @@
-# text-classifier lab 16
+# text-classifier 
+Lab 16: Machine Learning Intro 
