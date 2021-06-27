@@ -1,6 +1,6 @@
 ## Lab 16: Machine Learning Intro :
 
-### Overview
+## Overview
 
 A key developer skill is the ability to use internet resources effectively. Especially when learning a new topic.
 
